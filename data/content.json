@@ -1,0 +1,35 @@
+{
+  "heroTitle": "Strategic Legal & Corporate Solutions",
+  "heroSubtitle": "Advocates | CA | CS | CMA | Corporate Advisory",
+  "about": "LEGALCRAFT CONSULTING LLP is a multidisciplinary professional advisory firm delivering integrated legal, tax and corporate governance services across India.",
+  "services": [
+    "Company & LLP Incorporation",
+    "Corporate Compliance & ROC Filings",
+    "Taxation & GST Advisory",
+    "Civil & Criminal Litigation",
+    "Contract Drafting & Legal Opinions",
+    "Startup Structuring & ESOP Advisory"
+  ],
+  "team": [
+    {
+      "name": "Tondapu Ravi Teja",
+      "role": "Advocate \u2013 Corporate & Tax Advisory"
+    },
+    {
+      "name": "Moin Ahmed Syed",
+      "role": "Advocate \u2013 Civil & Corporate Law"
+    },
+    {
+      "name": "Arji Narasimhulu",
+      "role": "Advocate \u2013 Litigation Practice"
+    },
+    {
+      "name": "Jampa Ashok",
+      "role": "Advocate \u2013 Corporate Agreements"
+    },
+    {
+      "name": "Shriya Ayalasomayajula",
+      "role": "Advocate \u2013 Commercial Law"
+    }
+  ]
+}

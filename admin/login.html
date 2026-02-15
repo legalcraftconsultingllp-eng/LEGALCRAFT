@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+<head><title>Admin Login</title>
+<link rel="stylesheet" href="../css/style.css"></head>
+<body>
+<section>
+<h2>Admin Login</h2>
+<input type="password" id="pass" placeholder="Enter Password">
+<button onclick="login()">Login</button>
+</section>
+<script>
+function login(){
+ if(document.getElementById('pass').value==='Legal@2026')
+   window.location.href='dashboard.html';
+ else alert('Wrong Password');
+}
+</script>
+</body>
+</html>
